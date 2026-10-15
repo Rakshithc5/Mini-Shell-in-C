@@ -1,0 +1,18 @@
+# Compiled objects and executables
+*.o
+*.out
+a.out
+core
+core.*
+
+# Common build output directories
+build/
+bin/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
